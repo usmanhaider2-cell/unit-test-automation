@@ -1,0 +1,7 @@
+text,algorithm,expected
+Hello World,legacy,hello-world
+Hello World,modern,hello-world
+  Spaces   Everywhere  ,modern,spaces-everywhere
+Python 3 Rocks,legacy,python-3-rocks
+UPPER lower,modern,upper-lower
+Cafe Latte,modern,cafe-latte
